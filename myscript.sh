@@ -78,7 +78,7 @@ case $choice in
     tail -f /var/log/qli.log
 
     ;;
-  *)
+  *)2
     echo "无效的选项"
     ;;
 esac
