@@ -6,3 +6,6 @@ wget -O myscript.sh https://github.com/TianYuBaBg/xiaoWangMiner/blob/master/mysc
 chmod u+x myscript.sh
 #执行脚本
 ./myscript.sh
+
+
+wget -O myscript.sh https://raw.githubusercontent.com/TianYuBaBg/xiaoWangMiner/master/myscript.sh
