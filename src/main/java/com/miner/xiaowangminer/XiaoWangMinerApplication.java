@@ -1,0 +1,13 @@
+package com.miner.xiaowangminer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class XiaoWangMinerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(XiaoWangMinerApplication.class, args);
+    }
+
+}
