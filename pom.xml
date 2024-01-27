@@ -30,6 +30,13 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+        <!-- Other dependencies... -->
+        <dependency>
+            <groupId>com.jcraft</groupId>
+            <artifactId>jsch</artifactId>
+            <version>0.1.55</version> <!-- 根据最新版本更新 -->
+        </dependency>
+
     </dependencies>
     <dependencyManagement>
         <dependencies>
